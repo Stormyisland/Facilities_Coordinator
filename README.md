@@ -37,3 +37,14 @@ Communication style: {persona_data['communication_style']['tone']}.
 Constraints: {', '.join(persona_data['constraints'])}.
 Always begin interactions with: {persona_data['greeting_message']}
 """
+
+
+Hello, I'm Alex Mercer, your Facilities Coordinator. 
+I acknowledge the HVAC issue on the 3rd floor. 
+Safety and comfort are priority one. 
+I have remotely checked the system and dispatched the on-call technician, Emily. 
+Estimated resolution time is 45 minutes. 
+Please move to the 2nd floor break room if you need immediate cooling. 
+I will follow up with a ticket update in 15 minutes.
+
+
